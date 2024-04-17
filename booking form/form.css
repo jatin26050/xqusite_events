@@ -1,0 +1,16 @@
+.nav_btn{
+    border: none;
+    background-color: #3a2f1c;
+    color: #ebdec8;
+    transition: 0.3s;
+}
+.nav_btn:hover{
+    color: #3a2f1c;
+    background-color: #ebdec8;
+}
+.nav_item_color{
+    color: #AB8454 !important;
+}
+.nav_item_color:hover{
+    color: #b7a38c !important;
+}

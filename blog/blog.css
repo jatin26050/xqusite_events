@@ -1,0 +1,173 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "serif";
+    box-sizing: border-box;
+}
+
+.h05 {
+    height: 50px;
+}
+
+.h1 {
+    height: 100px;
+}
+
+.h2 {
+    height: 200px;
+}
+
+.h3 {
+    height: 300px;
+}
+
+.h4 {
+    height: 400px;
+}
+
+.h5 {
+    height: 500px;
+}
+
+.h6 {
+    height: 600px;
+}
+
+.h7 {
+    height: 700px;
+}
+
+.h8 {
+    height: 800px;
+}
+
+.h9 {
+    height: 900px;
+}
+
+.h10 {
+    height: 1000px;
+}
+
+/* nav and footer */
+.web-color {
+    color: #6c747c;
+}
+
+.nav_btn {
+    border: none;
+    background-color: #3a2f1c;
+    color: #ebdec8;
+    transition: 0.3s;
+}
+
+.nav_btn:hover {
+    color: #3a2f1c;
+    background-color: #ebdec8;
+}
+
+.nav_item_color {
+    color: #AB8454 !important;
+}
+
+.nav_item_color:hover {
+    color: #b7a38c !important;
+}
+
+.nl-color {
+    color: #A5906F;
+    font-weight: bold;
+}
+
+.ws {
+    letter-spacing: 25px;
+}
+
+.ipt {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #6c747c;
+}
+
+@media screen and (max-width: 448px) {
+    .w_img {
+        width: 100%
+    }
+}
+
+.line {
+    border: 1px solid #6c747c;
+    width: 25%;
+}
+
+.f-btn {
+    background-color: #d3d1cf;
+    border: none;
+}
+
+.footer {
+    /* height: 50px; */
+    background-color: #d3d1cf;
+}
+
+.f-item {
+    color: #6c747c;
+}
+
+/* hero  */
+
+.font-hero {
+    font-size: 35px;
+    text-align: center;
+    color: #6a747D;
+    margin-top: 30px;
+}
+
+.font-hero-2 {
+    font-size: 28px;
+    text-align: center;
+    color: #6a747D;
+    margin-top: 50px;
+    font-weight: 200;
+}
+
+.line-1 {
+    width: 30%;
+    height: 2px;
+    background-color: #8a8c8d;
+}
+.line-2 {
+    width: 25%;
+    height: 2px;
+    background-color: #8a8c8d;
+}
+
+.list-1 {
+    list-style: none;
+    color: #6a747D;
+    font-weight: 500;
+}
+
+/* hero2 */
+
+.center {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.hero1 {
+    background-image: url(./image/hero\ 1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 400px;
+}
+
+.hero2 {
+    background-image: url(./image/hero\ 2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 400px;
+}

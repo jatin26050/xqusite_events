@@ -1,0 +1,100 @@
+.bd1{
+    background-image: url(./images/quintana-design-header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+}
+.f-btn{
+    background-color: #d3d1cf;
+    border: none;
+}
+.footer{
+    /* height: 50px; */
+    background-color: #d3d1cf;
+}
+.f-item{
+    color:  #6c747c;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: serif;
+    box-sizing: border-box;
+}
+
+.h05{height: 50px;}
+.h1{height: 100px;}
+.h2{height: 200px;}
+.h3{height: 300px;}
+.h4{height: 400px;}
+.h5{height: 500px;}
+.h6{height: 600px;}
+.h7{height: 700px;}
+.h8{height: 800px;}
+.h9{height: 900px;}
+.h10{height: 1000px;}
+
+.web-color{
+    color: #6c747c;
+}
+.web-color1{
+    color: #bcbcbc;
+}
+
+.aligncenter {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ipt{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #6c747c;
+}
+
+.line1{
+    border: 1px solid #6c747c;
+    width: 35%;
+}
+.ipt{
+    background-color: transparent;  
+    border: none;
+    border-bottom: 1px solid #6c747c;
+}
+
+.f-btn{
+    background-color: #d3d1cf;
+    border: none;
+}
+.footer{
+    /* height: 50px; */
+    background-color: #d3d1cf;
+}
+.f-item{
+    color:  #6c747c;
+}
+
+@media screen and (min-width: 768px) {
+    .ab_text{
+        font-size:80px;
+  }
+}
+.nav_btn{
+    border: none;
+    background-color: #3a2f1c;
+    color: #ebdec8;
+    transition: 0.3s;
+}
+.nav_btn:hover{
+    color: #3a2f1c;
+    background-color: #ebdec8;
+}
+.nav_item_color{
+    color: #AB8454 !important;
+}
+.nav_item_color:hover{
+    color: #b7a38c !important;
+}
